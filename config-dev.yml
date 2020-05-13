@@ -1,1 +1,3 @@
-version: 0.0.1-dev-master
+config:
+  version: 0.0.1-dev-master
+  info: 这里是config-dev master分支数据
